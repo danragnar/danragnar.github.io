@@ -3,29 +3,29 @@ layout: default
 title: Home
 ---
 
-# Your Name / Consulting Brand
+# Dan Ragnar
 
 *DevOps | Cloud Native | Infrastructure as Code*
 
 ## About
 
-Write your intro here in Markdown. **Bold**, _italic_, etc.
+Givf job plix
 
 ## What I Do
 
-- DevOps Engineering  
-- Cloud Infrastructure (AWS / Azure / GCP)  
+- DevOps Engineering
+- Open Infrastructure
 - Infrastructure as Code (Terraform, Pulumi)  
-- CI/CD Pipelines  
-- Kubernetes & Helm  
+- CI/CD Pipelines (GitLab, GitHub)
+- Kubernetes & Helm
 
 ## Tech Stack
 
 Some technologies I work with:  
-`Terraform`, `GitHub Actions`, `Azure`, `Helm`, `Pulumi`, etc.
+`GitLab`, `GitHub`, `Kubernetes`, `Terraform`, `Ansible`, `HashiCorp Vault`.
 
 ## Contact
 
-- Email: [you@example.com](mailto:you@example.com)  
-- GitHub: [github.com/yourhandle](https://github.com/yourhandle)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Email: [dan.ragnar@danragnar.se](mailto:dan.ragnar@danragnar.se)  
+- GitHub: [github.com/danragnar](https://github.com/danragnar)  
+- LinkedIn: [linkedin.com/in/dan-ragnar-18528649/](https://linkedin.com/in/dan-ragnar-18528649/)
