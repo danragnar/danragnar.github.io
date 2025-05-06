@@ -5,7 +5,7 @@ title: Home
 
 # Dan Ragnar
 
-* DevOps | Cloud Native | Infrastructure as Code *
+![Profil](/assets/images/profil.jpeg)
 
 ## About
 
