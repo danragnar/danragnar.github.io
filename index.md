@@ -26,7 +26,7 @@ I love solving problems, even if it's in your old legacy system that makes the m
 ## Tech Stack
 
 Some technologies I work with:
-- <span class="label">GitLab</span>, <span class="label">GitHub</span>, maybe even ye old <span class="label">Jenkins</span> nightmare with <span class="label">Groovy</span> splashed all around.
+- `GitLab`, `GitHub`, maybe even ye old `Jenkins` nightmare with `Groovy` splashed all around.
 - `Kubernetes` (or `OpenShift`) cluster and platform building without creating a day-2 nightmare.
 - `Terraform` and/or `Ansible`.
 - `OpenStack`, `Azure`, `GCP` or `AWS` based infrastructure.
