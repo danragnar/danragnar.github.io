@@ -9,7 +9,7 @@ title: Home
 
 ## About
 
-Jack of all trades, master of none engineer that have done most things in the field of DevOps/Systems Administration/Platform Engineering/SRE. I'm usually pragmatic and more interestedin actually solving problemse than the nitty gritty details of implementation.
+Jack of all trades, master of none engineer that have done most things in the field of DevOps/Systems Administration/Platform Engineering/SRE. I'm usually pragmatic and more interested in actually solving problemse than the nitty gritty details of implementation.
 
 My strengths are a mix of social ability, seeing what the problem is and seeing other peoples problems in a non-dogmatic fashion.
 
