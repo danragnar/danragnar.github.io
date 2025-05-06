@@ -5,9 +5,7 @@ title: Home
 
 # Dan Ragnar
 
-<div class="profile-pic">
-  ![Profil](/assets/images/profil.jpeg)
-</div>
+<img src="/assets/images/profil.jpeg" alt="Profil" class="profile-pic" />
 
 ## About
 
