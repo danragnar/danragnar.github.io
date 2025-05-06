@@ -1,6 +1,5 @@
 ---
 layout: post
-author: Dan Ragnar
 title: TEST
 ---
 
